@@ -25,7 +25,7 @@ public class PlayerController : MonoBehaviour
     private void Move()
     {
         var inputDirection = _gameInput.Player.Move.ReadValue<Vector2>();
-        var direction = new Vector3(inputDirection.x, 0, inputDirection.y);
+        var direction = transform.TransformDirection(new Vector3(inputDirection.x, 0, inputDirection.y));
         _controllable.Move(direction);
     }
     

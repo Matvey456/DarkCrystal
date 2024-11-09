@@ -9,13 +9,18 @@
         <e p="Scripts" t="Include">
           <e p="CameraController.cs" t="Include" />
           <e p="Crystal.cs" t="Include" />
+          <e p="Door.cs" t="Include" />
           <e p="GameInput.cs" t="Include" />
+          <e p="IInteractable.cs" t="Include" />
+          <e p="Interactable.cs" t="Include" />
+          <e p="IntoLight.cs" t="Include" />
           <e p="Player" t="Include">
             <e p="Character.cs" t="Include" />
             <e p="IControllable.cs" t="Include" />
             <e p="PlayerController.cs" t="Include" />
           </e>
           <e p="Teleport.cs" t="Include" />
+          <e p="Trigger.cs" t="Include" />
         </e>
       </e>
       <e p="DarkCrystal.sln" t="IncludeFlat" />

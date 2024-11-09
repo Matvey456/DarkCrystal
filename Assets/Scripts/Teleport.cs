@@ -6,7 +6,6 @@ public class Teleport : MonoBehaviour
 {
     [SerializeField] private GameObject crystal;
     [SerializeField] private VisualEffect effect;
-    [SerializeField] private AudioSource spawnSound;
     [SerializeField] private float borderLeft, borderRight, borderTop, borderBottom;
     [SerializeField] private int spawnCooldown;
     
