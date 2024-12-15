@@ -27,6 +27,10 @@ public class Interactable : MonoBehaviour, IInteractable
             {
                 hit.transform.GetComponent<Door>().Interact();
             }
+            else if (hit.transform.CompareTag("Crystal"))
+            {
+                Destroy(hit.transform.gameObject);
+            }
         }
     }    
 }

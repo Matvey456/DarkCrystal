@@ -22,22 +22,14 @@
     <list default="true" id="1d7eb887-478d-4a3f-9c7b-c1d5f5308e1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DarkCrystal/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DarkCrystal/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DarkCrystal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DarkCrystal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DefaultVolumeProfile.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Teleport.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Teleport.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Tiles074_2K-JPG_Color.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Tiles074_2K-JPG_Color.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Tiles074_2K-JPG_Displacement.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Tiles074_2K-JPG_Displacement.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Tiles074_2K-JPG_NormalDX.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Tiles074_2K-JPG_NormalDX.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Tiles074_2K-JPG_Roughness.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Tiles074_2K-JPG_Roughness.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/WoodFloor051_2K-JPG_Color.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/WoodFloor051_2K-JPG_Color.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dark.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Dark.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Menu.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Menu.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Corridor.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Corridor.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Interactable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Interactable.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Trigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Trigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +41,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SFXManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IInteractable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Teleport.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -70,15 +66,24 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimationManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IInterable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IInteractable.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Door.cs" />
         <option value="$PROJECT_DIR$/Assets/Tools/Trigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Tools/Editor/CustomAttribute.cs" />
         <option value="$PROJECT_DIR$/Assets/Tools/Editor/ShowIfAttribute.cs" />
         <option value="$PROJECT_DIR$/Assets/Tools/Editor/CustomInspector.cs" />
         <option value="$PROJECT_DIR$/Assets/Tools/TriggerManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Trigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntoLight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuContoller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FlickeringLight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SettingsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/TabMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SFXManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Trigger.cs" />
       </list>
     </option>
   </component>
@@ -149,6 +154,20 @@
       <workItem from="1731155749345" duration="1994000" />
       <workItem from="1731161272920" duration="1712000" />
       <workItem from="1731172078163" duration="1166000" />
+      <workItem from="1732356603391" duration="18000" />
+      <workItem from="1732363396604" duration="575000" />
+      <workItem from="1732634492400" duration="1480000" />
+      <workItem from="1732636252809" duration="2028000" />
+      <workItem from="1732641866260" duration="2448000" />
+      <workItem from="1732731928921" duration="713000" />
+      <workItem from="1732788060485" duration="2555000" />
+      <workItem from="1733662347584" duration="2948000" />
+      <workItem from="1733740791576" duration="1923000" />
+      <workItem from="1734175871780" duration="4384000" />
+      <workItem from="1734187558171" duration="930000" />
+      <workItem from="1734198357951" duration="919000" />
+      <workItem from="1734257973588" duration="1222000" />
+      <workItem from="1734259428647" duration="1778000" />
     </task>
     <servers />
   </component>
@@ -171,5 +190,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="244" key="RiderGenerateDialog" timestamp="1732635211166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="244" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1732635211166" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1732788794183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1732788794183" />
   </component>
 </project>
